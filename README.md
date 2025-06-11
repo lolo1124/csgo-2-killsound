@@ -12,7 +12,7 @@ Enjoy
       2: Very easy to setup
       3: No ban risk
 # Will this get me banned?
-
+No its 100% safe
 # 🔒 Why GSI Is Safe
 It's built by Valve for developers, streamers, HUD creators, and apps.
 
