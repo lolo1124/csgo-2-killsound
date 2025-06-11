@@ -4,3 +4,7 @@ install the dependecies "pip install flask playsound"
 
 Run the flask app 
 Enjoy
+
+# Fetures
+1: Plays sound on kill (No delay)
+2: Very easy to setp
