@@ -1,7 +1,7 @@
 # csgo-2-killsound
-/1: Use killsound thats already in folder or download your own just make sure to name it the same or change the hard coded file path
-/2: install the dependecies "pip install flask playsound"
-/3: place the config file in "\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg"
+    1: Use killsound thats already in folder or download your own just make sure to name it the same or change the hard coded file path
+    2: install the dependecies "pip install flask playsound"
+    3: place the config file in "\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg"
 
 
 Run the flask app 
