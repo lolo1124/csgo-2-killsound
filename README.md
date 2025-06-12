@@ -11,6 +11,7 @@ Enjoy
       1: Plays sound on kill (No delay)
       2: Very easy to setup
       3: No ban risk
+      4: you can have different sound for headshot, body kill and multikill
 # Will this get me banned?
 No its 100% safe
 
